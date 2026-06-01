@@ -1,9 +1,12 @@
-# Python Calculator
+# Python Beginner Projects
 
-A beginner Python calculator built while learning Python fundamentals.
+A collection of Python projects built while learning programming fundamentals.
 
-## Features
+## Projects
 
+### 1. Calculator ✅
+
+Features:
 - Addition (+)
 - Subtraction (-)
 - Multiplication (*)
@@ -12,12 +15,14 @@ A beginner Python calculator built while learning Python fundamentals.
 - Exponentiation (**)
 - Square Root (sqrt)
 
-## Error Handling
+Location:
+calculator/
 
-- Division by zero protection
-- Modulus by zero protection
-- Negative square root validation
+---
 
-## Technologies Used
+### Upcoming Projects
 
-- Python 3
+- Number Guessing Game
+- Password Generator
+- Expense Tracker
+- Weather App
